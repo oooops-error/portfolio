@@ -2,5 +2,5 @@
 Portfolio - Still under development
 <br>
 <h3>
-By- Pranjal
+By- Pranjal Mishra
 </h3>
